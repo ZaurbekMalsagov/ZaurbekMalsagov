@@ -32,9 +32,9 @@ June 2023 — present 11 months
 
 **Programmer**
 
-Development of desktop applications in C# for automation of production and business processes.
+Development of desktop applications in C# for automating production and business processes.
 
-During my work, I wrote several applications on Winforms and WPF, which allowed to automate routine processes and double productivity. I corrected errors and added new functionality for existing applications at the enterprise. I am conducting joint development of an application for automated testing of devices in a team with another developer. I also deal with error correction, editing scripts and adding new functions for the ELMA 3 BPM system.
+During my work, I wrote several applications using WinForms and WPF, which automated routine processes and doubled productivity. I corrected errors and added new functionality to existing applications at the enterprise. I am involved in the joint development of an application for automated testing of devices in a team with another developer. Additionally, I handle error correction, script editing, and adding new functions for the ELMA 3 BPM system.
 
 Used stack:
 - C# 
@@ -55,7 +55,7 @@ May 2020 — currently
 
 **Engineer-Programmer**
 
-During my work, I wrote about a hundred programs for a CNC machine in the mechanical processing department. I made 3D models of products in such programs as: AutoCAD, SolidWorks, but mainly in CATIA. Processing algorithms for a CNC machine were also developed in CATIA
+During my work, I wrote about a hundred programs for CNC machines in the mechanical processing department. I created 3D models of products using programs such as AutoCAD and SolidWorks, but mainly in CATIA. Processing algorithms for CNC machines were also developed in CATIA.
 
 ## Education
 
@@ -99,14 +99,11 @@ Skills
 
 ## Additional Information
 
-About me
-I graduated with honours from MAI with a bachelor's degree in "Automation of Technological Processes and Productions", then applied for a masters degree program of NITU "MISIS" in the field of "Informatics and Computer Engineering", which I also graduated from with honours in August 2022. For almost 2 years I worked at the State Space Research and Production Center named after M.V. Khrunichev as an engineer-programmer.
+I graduated with honors from MAI with a bachelor's degree in "Automation of Technological Processes and Productions." I then applied for a master's degree program at NITU "MISIS" in the field of "Informatics and Computer Engineering," from which I also graduated with honors in August 2022. For almost two years, I worked at the State Space Research and Production Center named after M.V. Khrunichev as an engineer-programmer.
 
-At the university, I did a term paper on SQL queries. In the bachelor's degree on the subject "Numerical and Analytical Methods" I wrote programs in C++ to solve systems of equations by various methods. I took courses "Basics of Programming in C", where I solved more than 300 tasks. Also I have undergone a month intensive school 21 from Sber, where I solved various tasks in the C language and learned to work in a team using git.
+At the university, I completed a term paper on SQL queries. In my bachelor's degree program, for the subject "Numerical and Analytical Methods," I wrote programs in C++ to solve systems of equations using various methods. I took the course "Basics of Programming in C," where I solved more than 300 tasks. Additionally, I attended a month-long intensive school at School 21 from Sber, where I solved various tasks in the C language and learned to work in a team using Git.
 
-At the moment I am studying at "School 21" (an educational project from Sber for developers) and developing desktop applications for automating production tasks at LLC "Mirax".
-
-
+Currently, I am studying at "School 21" (an educational project from Sber for developers) and developing desktop applications for automating production tasks at LLC "Mirax."
 
 
 <!--
