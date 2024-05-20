@@ -59,16 +59,21 @@ During my work, I wrote about a hundred programs for CNC machines in the mechani
 
 ## Education
 
-**Master**
-National Research Technological University "MISIS", Moscow
-2022
+**Additional Training**  
+School 21 ([École 42](https://42.fr/)), Moscow  
+**Graduation Year:** 2025
 
-Institute of Information Technologies and Computer Science, Informatics and Computer Engineering
+**Master**  
+National Research Technological University "MISIS", Moscow  
+**Field of Study:** Institute of Information Technologies and Computer Science, Informatics and Computer Engineering  
+**Graduation Year:** 2022
 
-Moscow Aviation Institute (National Research University), Moscow
-2020
+**Bachelor**  
+Moscow Aviation Institute (National Research University), Moscow  
+**Field of Study:** Materials Science and Materials Technology, Automation of Technological Processes and Productions (by industries) (engineer)  
+**Graduation Year:** 2020
 
-Materials Science and Materials Technology, Automation of Technological Processes and Productions (by industries) (engineer)
+
 
 ## Professional Development, Courses
 
