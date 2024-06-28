@@ -28,7 +28,7 @@ Electronics, Instrumentation, Household Appliances, Computers and Office Equipme
 
 Electronic computing, optical, control and measuring equipment, radio electronics, automation (production)
 Industrial, household electrical equipment and electrical engineering (production)
-June 2023 — present 11 months
+June 2023 — currently
 
 **Programmer**
 
@@ -51,7 +51,7 @@ Heavy Engineering
 Production and repair of military equipment, equipment and weapons
 Aviation, helicopter, aerospace industry
 Engines (production)
-May 2020 — currently
+May 2020 — February 2022
 
 **Engineer-Programmer**
 
